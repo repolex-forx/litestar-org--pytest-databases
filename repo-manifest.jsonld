@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/pytest-databases/commit/bbefed54771662ef24c3eaff93a61da9937717cf",
       "git:hexsha": "bbefed54771662ef24c3eaff93a61da9937717cf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T23:16:05.579376+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/pytest-databases/commit/310af3fd7eea6206addb699e3435879de09f1113",
